@@ -1,0 +1,15 @@
+{
+  "date": "YYMMDD",
+  "stage": "project",
+  "entries": [
+    {
+      "timestamp": "YYYY-MM-DDTHH:MM:SS",
+      "mode": "planning|audit|coding|optimization|organize",
+      "context": "",
+      "work_done": [],
+      "decisions": [],
+      "issues": [],
+      "next_steps": []
+    }
+  ]
+}

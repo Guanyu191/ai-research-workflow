@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Large artifacts (recommend DVC/LFS if needed)
+2-实验和写作/runs/**/artifacts/**
+2-实验和写作/runs/**/checkpoints/**
+1-验证/tasks/**/artifacts/**
+
+# PDFs can be large; track as you prefer
+# 0-调研/references/**/*.pdf

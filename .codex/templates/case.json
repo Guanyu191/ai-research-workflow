@@ -1,0 +1,30 @@
+{
+  "case_id": "260101-case1",
+  "task_id": "",
+  "stage": "2-实验和写作",
+  "created_at": "2026-01-01T00:00:00",
+  "git_commit": "",
+  "data": {
+    "paths": [],
+    "hashes": []
+  },
+  "environment": {
+    "python": "",
+    "cuda": "",
+    "packages": []
+  },
+  "command": "",
+  "config_path": "",
+  "seeds": [],
+  "hardware": {
+    "machine": "",
+    "gpu": "",
+    "cpu": ""
+  },
+  "outputs": {
+    "artifacts_dir": "",
+    "key_files": []
+  },
+  "metrics": {},
+  "notes": "把关键结论写清楚：在 EVAL 描述下，指标如何变化(均值/方差)，成本是多少，是否值得进入下一轮."
+}
