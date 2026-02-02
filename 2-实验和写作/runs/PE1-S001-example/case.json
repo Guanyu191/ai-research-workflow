@@ -1,0 +1,28 @@
+{
+  "task_id": "",
+  "git_commit": "",
+  "created_at": "<YYYY-MM-DDTHH:MM:SS>",
+  "data": {
+    "paths": [],
+    "hashes": []
+  },
+  "environment": {
+    "python": "",
+    "cuda": "",
+    "packages": []
+  },
+  "command": "",
+  "config_path": "",
+  "seeds": [],
+  "hardware": {
+    "machine": "",
+    "gpu": "",
+    "cpu": ""
+  },
+  "outputs": {
+    "artifacts_dir": ""
+  },
+  "notes": "",
+  "case_id": "PE1-S001-example",
+  "metrics": {}
+}

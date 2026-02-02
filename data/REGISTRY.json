@@ -1,0 +1,17 @@
+{
+  "schema_hint": "Fill `datasets` with your data sources. Keep paths relative to workspace root.",
+  "datasets": [
+    {
+      "name": "<DATASET_ID>",
+      "version": "<VERSION>",
+      "source_url": "",
+      "license": "",
+      "paths": [
+        "data/raw/<filename.ext>"
+      ],
+      "hashes": [],
+      "build_command": "",
+      "notes": ""
+    }
+  ]
+}

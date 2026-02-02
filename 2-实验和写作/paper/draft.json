@@ -1,0 +1,41 @@
+{
+  "title": "",
+  "one_line_contribution": "",
+  "claims": [],
+  "storyline": {
+    "problem": "",
+    "gap": "",
+    "idea": "",
+    "evidence": "",
+    "impact": ""
+  },
+  "sections": [
+    {
+      "name": "Introduction",
+      "bullets": []
+    },
+    {
+      "name": "Related Work",
+      "bullets": []
+    },
+    {
+      "name": "Method",
+      "bullets": []
+    },
+    {
+      "name": "Experiments",
+      "bullets": []
+    },
+    {
+      "name": "Conclusion",
+      "bullets": []
+    }
+  ],
+  "figures": [],
+  "tables": [],
+  "open_questions": [],
+  "todo": [
+    "把项目级 PLAN/验证结论的 claims 映射到 paper 的 claims.",
+    "从 results/leaderboard.csv 抽取主结果表格草稿."
+  ]
+}
